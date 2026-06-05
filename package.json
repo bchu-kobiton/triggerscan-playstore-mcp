@@ -1,0 +1,15 @@
+{
+  "name": "play-store-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "express": "latest",
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0"
+  }
+}
